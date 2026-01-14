@@ -21,7 +21,7 @@ I don’t believe good engineers are defined by how many tools they know — but
 
 * Applying Machine Learning to real, imperfect problems
 * Exploring how GenAI fits into usable systems, not just demos
-* Turning academic and college projects into clean, well-structured repositories
+* Learning and applying AI and ML
 
 I’m early in the journey, but serious about depth and fundamentals.
 
