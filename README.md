@@ -1,16 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Inter&
-size=32&
-duration=3000&
-pause=1000&
-color=FFFFFF&
-center=true&
-vCenter=true&
-width=700&
-lines=Hello%2C+I%E2%80%99m+Nirmaan+Vijay+Vargi"
-  alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello%2C+I%E2%80%99m+Nirmaan+Vijay+Vargi" />
 </h1>
+
 
 I like understanding how things *actually* work.
 Not just getting them to run — but knowing why they behave the way they do, where they fail, and how they hold up when conditions aren’t ideal.
