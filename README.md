@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3000&pause=1000&color=93C5FD&center=true&vCenter=true&width=700&lines=Hello%2C+I%E2%80%99m+Nirmaan+Vijay+Vargi+!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3000&pause=1000&color=93C5FD&center=true&vCenter=true&width=700&lines=Hello%2C+I%E2%80%99m+Nirmaan+Vijay+Vargi" />
 </h1>
 
 
@@ -25,7 +25,7 @@ I don’t believe good engineers are defined by how many tools they know — but
 
 * Applying Machine Learning to real, imperfect problems
 * Exploring how GenAI fits into usable systems, not just demos
-* Learning and applying AI and ML
+
 
 I’m early in the journey, but serious about depth and fundamentals.
 
@@ -74,4 +74,4 @@ I’m optimizing for long-term growth, not short-term noise.
 * LinkedIn: linked on my profile
 * GitHub: you’re already here
 
-Still learning. Still building. Doing it properly.
+Still learning. Still building. Focused on doing things properly.
